@@ -1,0 +1,2 @@
+# Can change urdf file - use_realsense, use_web_cam
+camera: default
